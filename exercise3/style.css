@@ -1,0 +1,24 @@
+#main {
+	background-color:#D3D3D3;
+}
+
+.item1 {
+	color:pink;
+}
+
+.item2 {
+	color:brown;
+}
+
+.p1 .p2 {
+	color:maroon;
+}
+
+.p1 {
+	font-size:30px;
+}
+
+#header {
+	display:none;
+}
+

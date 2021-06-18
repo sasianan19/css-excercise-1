@@ -1,0 +1,20 @@
+p {
+	border:solid purple;
+}
+
+li {
+	display:inline;
+	border:solid blue;
+}
+
+.block {
+	display:block;
+}
+
+.e {
+	padding:.8em;
+}
+
+
+
+
